@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="./assets/coover.png"
-    width="300"
+    width="600"
 />
 </p>
 
