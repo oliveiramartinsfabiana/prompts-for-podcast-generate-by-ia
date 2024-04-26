@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://file.notion.so/f/f/091975b0-2e62-4f56-b9c4-6cdaf18f1aca/136351e0-c702-4865-a886-a0edbaa4427f/pod_edition_ep01.mp3?id=5df29c4d-ec49-48bb-9285-a2682c6e3783&table=block&spaceId=091975b0-2e62-4f56-b9c4-6cdaf18f1aca&expirationTimestamp=1714262400000&signature=IJObgPqiKg5DOOshfPpSVJVMzqyTDNx5OnOXxKJK0KY&downloadName=EP01.MP3.mp3">
-    preview do podcast
+    Preview do podcast
 </p>
 
 # Projeto Podcast Gerado por I.A.s
