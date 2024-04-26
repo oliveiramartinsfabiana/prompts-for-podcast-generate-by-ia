@@ -5,9 +5,10 @@
 />
 </p>
 
-<div align="center">
-- [Preview do Podcast](https://chat.openai.com/) 
-</div>
+<p align="center">
+<a href="https://dio.me/">
+    preview do podcast
+</p>
 
 # Projeto Podcast Gerado por I.A.s
 
