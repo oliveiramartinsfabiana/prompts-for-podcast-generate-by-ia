@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/pod_edition_ep01.MP3" controls title="Podcast editado"></audio>
+    [ChatGPT](https://chat.openai.com/)
 </div>
 
 # Projeto Podcast Gerado por I.A.s
@@ -41,7 +41,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 - 🤖 1. Use os prompts de roteiro no `ChatGPT`
 - 🤖 2. Use os prompts de roteiro gerados pelo ChatGPT no `Ttsmaker`
-- 🤖 3. Use os prompts de artes no `Leonardo AI` ou `Copilot`
+- 🤖 3. Use os prompts de artes no `Copilot`
 
 ## 👩🏻‍💻 Expert
 
