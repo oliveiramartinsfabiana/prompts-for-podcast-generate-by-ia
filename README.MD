@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-    [ChatGPT](https://chat.openai.com/)
+- [Preview do Podcast](https://chat.openai.com/) 
 </div>
 
 # Projeto Podcast Gerado por I.A.s
